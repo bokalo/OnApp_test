@@ -1,0 +1,19 @@
+current directory: /home/runi/Desktop/OnApp/.bundle/ruby/2.5.0/gems/byebug-9.1.0/ext/byebug
+/home/runi/.rvm/rubies/ruby-2.5.3/bin/ruby -I /home/runi/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200731-22002-8z2mwx.rb extconf.rb
+creating Makefile
+
+current directory: /home/runi/Desktop/OnApp/.bundle/ruby/2.5.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/runi/Desktop/OnApp/.bundle/ruby/2.5.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/runi/Desktop/OnApp/.bundle/ruby/2.5.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20200731-22002-11p2j9v/byebug
